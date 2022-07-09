@@ -1,5 +1,5 @@
 # Lamport
-Synchronized queue
+Synchronized queue. It's a work of 2010 but I think it is always actual never less the sinctactic expression. 
 
 # ref
 
