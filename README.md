@@ -18,3 +18,5 @@ This is my most often cited paper.  Many computer scientists claim to have read 
 The paper describes the synchronization of logical clocks.  As something of an afterthought, I decided to see what kind of synchronization it provided for real-time clocks.  So, I included a theorem about real-time synchronization.  I was rather surprised by how difficult the proof turned out to be.  This was an indication of what lay ahead in [62]. "
 
 This paper won the 2000 PODC Influential Paper Award (later renamed the Edsger W. Dijkstra Prize in Distributed Computing).  It won an ACM SIGOPS Hall of Fame Award in 2007. 
+
+https://en.m.wikipedia.org/wiki/Lamport_timestamp
