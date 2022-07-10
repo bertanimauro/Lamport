@@ -1,6 +1,7 @@
 # Lamport
 Synchronized queue. It's my work of 2010 about a Lamport article but I think it is always actual never less the synctactic expression. 
 
+I remember that year it burst into rain in February and ended in September. I spent my two weeks of vacation in the mountains, in the rain, developing this program. It didn't end just because the sun came out the last two days
 # ref
 
 Time, Clocks and the Ordering of Events in a Distributed System
